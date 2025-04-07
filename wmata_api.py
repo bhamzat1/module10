@@ -41,4 +41,3 @@ def get_incidents(unit_type):
 
 if __name__ == '__main__':
     app.run(debug=True)
-
